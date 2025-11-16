@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
--[GIT] (#git)
+- [GIT](#git)
 
 ## Git
 
