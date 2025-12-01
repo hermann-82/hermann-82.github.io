@@ -11,3 +11,9 @@
  * [2025-11-16-Intro-Git](Git/2025-11-16-Intro-Git.md)
  * [2025-11-18-Body-Git](Git/2025-11-18-Body-Git.md)
 
+
+- [Shebang](#shebang)
+
+## Shebang
+
+ * [2025-12-01-Intro-Shebang](Shebang/2025-12-01-Intro-Shebang.md)
