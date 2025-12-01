@@ -12,7 +12,6 @@
  * [2025-11-18-Body-Git](Git/2025-11-18-Body-Git.md)
 
 
-- [Shebang](#shebang)
 
 ## Shebang
 
