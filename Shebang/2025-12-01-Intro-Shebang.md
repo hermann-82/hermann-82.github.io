@@ -1,15 +1,14 @@
 <h1> Introduction to Shebang <h1>
 
-```
-console
+```console
 
-## Difference between Bourne shell (sh) and Debian Almquist shell (dash)
+ * Difference between Bourne shell (sh) and Debian Almquist shell (dash)
 
-. A shebang statement is a line that you can specify at a top of a shell script.
+  A shebang statement is a line that you can specify at a top of a shell script.
   it is start with #!. It is use to specify what shell a script is writen to.
     #!/bin/bash
 
-## Exit code
+** Exit code
 
 A success command return a value of 0 and a failed command return a value >0.
 The exit code is store is a variable called $?
